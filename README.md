@@ -238,3 +238,6 @@ This repository serves as the official landing page for Trivial Pursuit. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Trivial Pursuit today!**
+
+---
+**Last updated:** 2026-09-08 17:03:10 UTC
